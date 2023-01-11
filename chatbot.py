@@ -84,10 +84,10 @@ class ChatBot:
 
 
         elif(self.entry.get()=="who created you"):
-            self.text.insert(END,"\n\n"+"BOT: Ankita did using python")   
+            self.text.insert(END,"\n\n"+"BOT: Parul did using python")   
 
         elif(self.entry.get()=="what is your name"):
-            self.text.insert(END,"\n\n"+"BOT: My name is Ankita dubey")   
+            self.text.insert(END,"\n\n"+"BOT: My name is Parul Gupta")   
 
         elif(self.entry.get()=="can you speak marathi"):
             self.text.insert(END,"\n\n"+"BOT: I am still learning it...")   
